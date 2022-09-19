@@ -1,0 +1,18 @@
+.category_wrapper{
+    height: auto;
+    margin: 10px;
+    padding: 5px 10px;
+    position: sticky;
+    border: 1px solid #e7eaed;
+    border-radius: 4px;
+    top: 70px;
+    min-width: fit-content;
+    padding: 10px 15px;
+    max-width: fit-content;
+    margin-top: 35px;
+    .category_header{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+}
